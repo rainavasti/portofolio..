@@ -1,0 +1,5 @@
+/* Mengubah semua teks judul h1 menjadi warna biru dan ukuran 24 pixel */
+h1 {
+  color: blue;
+  font-size: 24px;
+}
